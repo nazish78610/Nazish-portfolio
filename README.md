@@ -112,7 +112,7 @@
 
     <div class="section">
       <h2>Resume</h2>
-      <a class="download-button" href="#" download>Download Resume (PDF)</a>
+      <a class="download-button" href="#" https://github.com/nazish78610/Nazish-portfolio/blob/main/Nazish_Cloud_CV.pdf</a>
       <p><em>Note: Upload your resume to GitHub and replace this link with the direct download URL.</em></p>
     </div>
   </div>
